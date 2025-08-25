@@ -24,11 +24,6 @@ It provides interactive visualizations and insights into weather patterns such a
 
 ---
 
-## 📷 Dashboard Preview
-*(Add screenshots of your dashboard here for better visualization — you can export them from Power BI as PNG images and upload to your GitHub repo.)*  
-
----
-
 ## 🎯 Learning Objectives
 This project demonstrates:  
 - Data cleaning and modeling for visualization  
